@@ -102,7 +102,8 @@ https://github.com/svjack/CodeActAgent-Gradio/assets/27874014/6d628900-7362-4c84
   Save the output as image 🖼️ to local. ⏬<br/>
   Good Job 😊<br/>
   你可以在上面的视频中发现它们的用处。
-* 3 我建议您在 GPU 上运行演示（10GB GPU 内存就足够了，所有示例都在单个 GTX 1080Ti 或 GTX 3060 上进行了测试）
+* 3 聊天上下文的最长长度在notebook中设定为3060，如果你需要更长的聊天轮数，请尝试手动增加，这依赖于你的显存大小。
+* 4 我建议您在 GPU 上运行演示（10GB GPU 内存就足够了，所有示例都在单个 GTX 1080Ti 或 GTX 3060 上进行了测试）
   
 ### 使用的模型
 |模型名称 | 模型类型 | HuggingFace 模型链接 |
