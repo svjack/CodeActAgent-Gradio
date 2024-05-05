@@ -4,5 +4,5 @@ transformers
 ipykernel
 numpy
 pandas
-scikit-learn==4.40.1
+scikit-learn
 llama-cpp-python==0.2.69
