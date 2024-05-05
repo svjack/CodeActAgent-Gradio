@@ -32,7 +32,7 @@ Starting from quantified weights, it implements the use of CodeActAgent as a run
 pip install -r requirements.txt
 ```
 ### Running
-Lanuch the jupyter notebook named "code_act_agent_gradio_demo.ipynb" <br/>
+Lanuch the jupyter notebook named "code_act_agent_gradio_demo.ipynb", run every shell of the notebook. <br/>
 Visit http://127.0.0.1:7860 in browser or public url provided by gradio.<br/>
 Below, use some videos to introduce methods of interacting with models.
 
