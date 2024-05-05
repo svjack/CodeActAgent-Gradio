@@ -1,7 +1,7 @@
 torch
 gradio==4.29.0
 transformers
-ipykernel
+ipykernel==6.25.0
 numpy
 pandas
 scikit-learn
