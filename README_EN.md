@@ -21,7 +21,7 @@ CodeAct can execute code actions and dynamically revise prior actions or emit ne
 
 <img src="imgs/overview.png" alt="Girl in a jacket" width="1250" height="450">
 
-[The original repo](https://github.com/xingyaoww/code-act), use Huggingface Chatui and Has a relatively complex front-end and back-end structure. <br/>
+[The original repo](https://github.com/xingyaoww/code-act), use Huggingface ChatUi and Has a relatively complex front-end and back-end structure. <br/>
 This project aims to simplify the original project structure, by simply using Llama-cpp and gradio.<br/>
 Starting from quantified weights, it implements the use of CodeActAgent as a runnable and interactive teaching Code LLM function with a relatively simple structure.
 
