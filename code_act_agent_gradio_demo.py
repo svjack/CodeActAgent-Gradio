@@ -160,7 +160,6 @@ if torch.cuda.is_available():
   CodeActAgent_llm = llama_cpp.Llama.from_pretrained(
       repo_id="xingyaoww/CodeActAgent-Mistral-7b-v0.1.q8_0.gguf",
       filename="*q8_0.gguf",
-      #tokenizer=llama_cpp.llama_tokenizer.LlamaHFTokenizer.from_pretrained("Qwen/Qwen1.5-14B"),
       verbose=False,
       n_gpu_layers = -1,
       n_ctx = 3060
@@ -169,7 +168,6 @@ else:
   CodeActAgent_llm = llama_cpp.Llama.from_pretrained(
       repo_id="xingyaoww/CodeActAgent-Mistral-7b-v0.1.q8_0.gguf",
       filename="*q8_0.gguf",
-      #tokenizer=llama_cpp.llama_tokenizer.LlamaHFTokenizer.from_pretrained("Qwen/Qwen1.5-14B"),
       verbose=False,
       #n_gpu_layers = -1,
       n_ctx = 3060
