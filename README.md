@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ### 运行
 启动名为 "code_act_agent_gradio_demo.ipynb" 的jupyter notebook，运行所有单元格。 <br/>
 在浏览器访问 http://127.0.0.1:7860 或者 gradio 提供的开放分享接口。<br/>
-下面通过几个视频介绍如何于本工程的例子进行交互。
+下面通过几个视频介绍如何与本工程的例子进行交互。
 
 ### 运行结果
 #### 简单代码教学
