@@ -4,7 +4,7 @@
   <h3 align="center">CodeActAgent-Gradio</h3>
 
   <p align="center">
-   		Use CodeActAgent-Mistral-7b by gradio as runable Code-LLM agent.
+   		Use CodeActAgent-Mistral-7b by gradio as runable Code-LLM agent.🤖
     <br />
   </p>
 </p>
@@ -33,7 +33,8 @@ pip install -r requirements.txt
 ```
 ### Running
 Lanuch the jupyter notebook named "code_act_agent_gradio_demo.ipynb" <br/>
-Visit http://127.0.0.1:7860 in browser or public url provided by gradio.
+Visit http://127.0.0.1:7860 in browser or public url provided by gradio.<br/>
+Below, use some videos to introduce methods of interacting with models.
 
 ### Running Results
 #### Simple code teaching
