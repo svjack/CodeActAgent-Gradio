@@ -19,7 +19,7 @@ to consolidate LLM agents’ actions into a unified action space (CodeAct). Inte
 CodeAct can execute code actions and dynamically revise prior actions or emit new actions upon new observations 
 (e.g., code execution results) through multi-turn interactions.
 
-<img src="imgs/overview.png" alt="Girl in a jacket" width="1050" height="950">
+<img src="imgs/overview.png" alt="Girl in a jacket" width="1250" height="550">
 
 [The original repo](https://github.com/xingyaoww/code-act), use Huggingface Chatui and Has a relatively complex front-end and back-end structure. <br/>
 This project aims to simplify the original project structure, by simply using Llama-cpp and gradio.<br/>
