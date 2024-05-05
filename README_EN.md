@@ -105,7 +105,8 @@ https://github.com/svjack/CodeActAgent-Gradio/assets/27874014/6d628900-7362-4c84
   Save the output as image 🖼️ to local. ⏬<br/>
   Good Job 😊<br/>
   You can find the usage of them in above videos.
-* 3 I recommand you run the demo on GPU (10GB gpu memory is enough, all examples have tested on single GTX 1080Ti or GTX 3060) <br/><br/>
+* 3 the max length of total chat context set to 3060 in the notebook, if you require more rounds in chat, try to increase it. 
+* 4 I recommand you run the demo on GPU (10GB gpu memory is enough, all examples have tested on single GTX 1080Ti or GTX 3060) <br/><br/>
 
 ### LLM Model
 |Name | Type | HuggingFace Model link |
