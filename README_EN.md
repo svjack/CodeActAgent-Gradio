@@ -97,13 +97,14 @@ https://github.com/svjack/CodeActAgent-Gradio/assets/27874014/6d628900-7362-4c84
 <br/>
 
 ### Note
-* 1 the example in gradio page provide some convenient instructions are provided to facilitate interaction with the model, such as <br/>
+* 1 Because of the randomness, the results of each run may be different, which encourages active exploration of more ways to flexibly interact with LLM, which is also more interesting.
+* 2 the example in gradio page provide some convenient instructions are provided to facilitate interaction with the model, such as <br/>
   Give me the function defination. 💡<br/>
   Correct it. ☹️❌<br/>
   Save the output as image 🖼️ to local. ⏬<br/>
   Good Job 😊<br/>
   You can find the usage of them in above videos.
-* 2 I recommand you run the demo on GPU (10GB gpu memory is enough, all examples have tested on single GTX 1080Ti or GTX 3060) <br/><br/>
+* 3 I recommand you run the demo on GPU (10GB gpu memory is enough, all examples have tested on single GTX 1080Ti or GTX 3060) <br/><br/>
 
 ### LLM Model
 |Name | Type | HuggingFace Model link |
