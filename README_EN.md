@@ -31,6 +31,7 @@ Starting from quantified weights, it implements the use of CodeActAgent as a run
 ```bash
 pip install -r requirements.txt
 ```
+It is recommended to install the llama-cpp-python GPU version for a better experience.
 ### Running
 Lanuch the jupyter notebook named "code_act_agent_gradio_demo.ipynb", run every shell of the notebook. <br/>
 Visit http://127.0.0.1:7860 in browser or public url provided by gradio.<br/>
