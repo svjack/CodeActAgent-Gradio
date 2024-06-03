@@ -28,6 +28,7 @@ CodeAct 可以执行代码操作并动态修改先前的操作或根据新的观
 ```bash
 pip install -r requirements.txt
 ```
+推荐安装llama-cpp-python GPU版本以获得更好体验。
 ### 运行
 启动名为 "code_act_agent_gradio_demo.ipynb" 的jupyter notebook，运行所有单元格。 <br/>
 在浏览器访问 http://127.0.0.1:7860 或者 gradio 提供的开放分享接口。<br/>
