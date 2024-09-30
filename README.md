@@ -113,6 +113,9 @@ https://github.com/svjack/CodeActAgent-Gradio/assets/27874014/6d628900-7362-4c84
 
 <br/><br/>
 
+### Python运行时框架替代品
+https://github.com/e2b-dev/code-interpreter
+
 <!-- CONTACT -->
 ## Contact
 
